@@ -6,7 +6,7 @@ draft = false
 title = "SQLWorldへようこそ"
 +++
 
-# About fSQLWorld
+# About SQLWorld
 
 MicrosoftテクノロジであるSQLServerのコミュニティです♪
 

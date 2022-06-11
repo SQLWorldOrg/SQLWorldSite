@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SQLWorldへようこそ on SQLWorld</title>
-    <link>https://sqlworld.org/</link>
-    <description>Recent content in SQLWorldへようこそ on SQLWorld</description>
+    <title>Events on SQLWorld</title>
+    <link>https://sqlworld.org/event/</link>
+    <description>Recent content in Events on SQLWorld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jun 2022 00:30:00 +0900</lastBuildDate><atom:link href="https://sqlworld.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jul 2010 14:00:00 +0900</lastBuildDate><atom:link href="https://sqlworld.org/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第2回 Windows7倶楽部</title>
       <link>https://sqlworld.org/event/20100710/</link>

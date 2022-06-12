@@ -6,7 +6,16 @@
     <description>Recent content in Events on SQLWorld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2012 13:30:00 +0900</lastBuildDate><atom:link href="https://sqlworld.org/event/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Apr 2012 13:30:00 +0900</lastBuildDate><atom:link href="https://sqlworld.org/event/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQLWorld★大阪#9</title>
+      <link>https://sqlworld.org/event/20120414/</link>
+      <pubDate>Sat, 14 Apr 2012 13:30:00 +0900</pubDate>
+      
+      <guid>https://sqlworld.org/event/20120414/</guid>
+      <description>勉強会 SQLServer SQLWorld★大阪#9 開催情報 今回も初心者から中級者対象にSQLServerを中心とした DB について勉強したいと思います 日時 201</description>
+    </item>
+    
     <item>
       <title>SQLWorld★大阪#8</title>
       <link>https://sqlworld.org/event/20120128/</link>

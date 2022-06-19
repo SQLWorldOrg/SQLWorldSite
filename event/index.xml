@@ -6,7 +6,16 @@
     <description>Recent content in Events on SQLWorld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jan 2013 13:00:00 +0900</lastBuildDate><atom:link href="https://sqlworld.org/event/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Mar 2013 13:00:00 +0900</lastBuildDate><atom:link href="https://sqlworld.org/event/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQLWorld★大阪#12</title>
+      <link>https://sqlworld.org/event/20130323/</link>
+      <pubDate>Sat, 23 Mar 2013 13:00:00 +0900</pubDate>
+      
+      <guid>https://sqlworld.org/event/20130323/</guid>
+      <description>SQLWorld★大阪#12 開催情報 日時 2013年3月23日（土曜日）13:00~17:00 イベント概要 今回の SQLWorld は、Office 製品である InfoPath</description>
+    </item>
+    
     <item>
       <title>SQLWorld★大阪#11</title>
       <link>https://sqlworld.org/event/20130126/</link>

@@ -6,7 +6,25 @@
     <description>Recent content in Events on SQLWorld</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Aug 2012 13:00:00 +0900</lastBuildDate><atom:link href="https://sqlworld.org/event/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jan 2013 13:00:00 +0900</lastBuildDate><atom:link href="https://sqlworld.org/event/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQLWorld★大阪#11</title>
+      <link>https://sqlworld.org/event/20130126/</link>
+      <pubDate>Sat, 26 Jan 2013 13:00:00 +0900</pubDate>
+      
+      <guid>https://sqlworld.org/event/20130126/</guid>
+      <description>SQLWorld★大阪#11 開催情報 日時 2013年1月26日（土曜日） 13:00~17:00 イベント概要 2013年最初の SQLWorld 開催します！今回は、東京から SQLTO のメンバ</description>
+    </item>
+    
+    <item>
+      <title>SQL Saturday #181 TOKYO 2012</title>
+      <link>https://sqlworld.org/event/20121201/</link>
+      <pubDate>Sat, 01 Dec 2012 13:00:00 +0900</pubDate>
+      
+      <guid>https://sqlworld.org/event/20121201/</guid>
+      <description>SQL Saturday #181 TOKYO 2012 開催情報 2012/12/01 に SQLTO さんと東京で SQL Saturday を開催します！ SQL Saturday とは、SQL Server プロフェッショナルやSQL Server を勉強中の方々のためのトレーニングイベン</description>
+    </item>
+    
     <item>
       <title>SQLWorld★大阪#10</title>
       <link>https://sqlworld.org/event/20120804/</link>
